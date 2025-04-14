@@ -1,0 +1,28 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "key":
+  {
+    "A":
+    {
+      "item":"farmersdelight:bacon"
+    },
+    "B":
+    {
+      "item":"minecraft:netherite_scrap"
+    },
+    "C":
+    {
+      "item":"minecraft:paper"
+    }
+  },
+  "pattern":
+  [
+    "AAA",
+    "ACB",
+    "BBB"
+  ],
+  "result":
+  {
+    "item":"farmersdelight:server"
+  }
+}

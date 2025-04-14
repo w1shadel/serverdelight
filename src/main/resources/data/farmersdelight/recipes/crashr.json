@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:logs_that_burn"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "farmersdelight:crashr"
+  }
+}
